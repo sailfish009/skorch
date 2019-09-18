@@ -132,6 +132,8 @@ Installation
 
 skorch requires Python 3.5 or higher.
 
+From source works fine with anaconda3(pytorch)
+
 pip installation
 ================
 
